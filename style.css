@@ -21,8 +21,8 @@ body {
 /* 上段（ロゴ） */
 .header-top {
   display: flex;
+  justify-content: center;
   align-items: center;
-  padding-left: 200px;
 }
 
 
@@ -31,7 +31,6 @@ body {
   display: flex;
   align-items: center;
   gap: 10px;
-  margin: 0;
 }
 
 .logo img {
